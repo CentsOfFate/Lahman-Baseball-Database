@@ -6,6 +6,7 @@ This project is for developing Data Visualizations and Dashboards using the Lahm
 ## Getting Started
 To replicate this Project: 
 * Download and install [SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017) 
+* Create View using [vLahman](https://github.com/CentsOfFate/Lahman-Baseball-Database/blob/master/Files/Create%20vLahman.sql)
 
 
 ## Example Query
